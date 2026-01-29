@@ -4,11 +4,11 @@ Desenvolvedor Fullstack com experiência em aplicações **web e mobile**, apaix
 
 ### 🚀 Sobre mim
 
-- 🎓 Estudante de **Engenharia de Software (UPE)** — conclusão em 2025  
-- 💼 Experiência profissional com **React, Next.js, Vue.js, React Native e TypeScript**  
-- 🔧 Backend com **Java (Spring Boot)** e **PHP (Laravel)**  
-- 🧠 Vivência em **SCRUM, Git, APIs REST, Clean Code e SOLID**  
-- 🌍 Aberto a oportunidades **Remotas / PJ**
+- **Bacharel em Engenharia de Software (UPE)**
+- Experiência profissional com **React, Next.js, Vue.js, React Native e TypeScript**  
+- Backend com **Java (Spring Boot)** e **PHP (Laravel)**, **C# (.NET)**  
+- Vivência em **SCRUM, Git, APIs REST, Clean Code e SOLID**  
+- Aberto a oportunidades **Remotas / PJ**
 
 ![Jonas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonas-eng-21&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonas-eng-21&layout=compact&langs_count=6&theme=radical)
