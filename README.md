@@ -10,31 +10,6 @@ Desenvolvedor Fullstack com experiência em aplicações **web e mobile**, apaix
 - Vivência em **SCRUM, Git, APIs REST, Clean Code e SOLID**  
 - Aberto a oportunidades **Remotas / PJ**
 
-![Jonas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonas-eng-21&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonas-eng-21&layout=compact&langs_count=6&theme=radical)
-
----
-
-### 💼 Experiência
-
-- **Desenvolvedor Full Stack | Agência Connecta**  
-  *Set/2025 – Atual*  
-  Atuação end-to-end com **PHP (Laravel)**, **Blade**, **Tailwind CSS**, arquitetura de sistemas e foco em performance e segurança.
-
-- **Desenvolvedor Full Stack Freelancer**  
-  *Jan/2024 – Dez/2024*  
-  Desenvolvimento de soluções sob demanda com **Java (Spring Boot)** e **React**, lidando diretamente com clientes e regras de negócio.
-
-- **Desenvolvedor Frontend | COMEIA Labs**  
-  *Dez/2021 – Dez/2023*  
-  Desenvolvimento web e mobile com **React, React Native, Vue.js e TypeScript**, integração com APIs REST e trabalho em times ágeis.
-
-- **Trainee | COMEIA Labs**  
-  *Fev/2021 – Dez/2021*  
-  Atuação em projetos reais com foco em fundamentos, boas práticas e trabalho em equipe.
-
----
-
 ### 🛠️ Tecnologias
 
 **Frontend:**  
