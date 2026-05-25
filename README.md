@@ -1,14 +1,16 @@
 ## Hi there 🖖
-Desenvolvedor Fullstack com experiência em aplicações **web e mobile**, apaixonado por **tecnologia, código limpo** e soluções práticas. Trabalho com **React, React Native, Vue.js, Java (Spring Boot)** e bancos de dados. Busco sempre aprender e contribuir em projetos com impacto real.
 
+Sou um Engenheiro de Software focado na construção, modernização e sustentação de sistemas web robustos e escaláveis. Atuo com a mentalidade **Full Cycle**, assumindo a responsabilidade de ponta a ponta: desde o desenho da arquitetura e modelagem de dados até a entrega contínua em produção.
+
+Minha profundidade técnica está concentrada no desenvolvimento de ecossistemas backend utilizando **Java** e **PHP** de forma paralela, integrando-os a interfaces modernas e performáticas no frontend.
 
 ### 🚀 Sobre mim
 
 - **Bacharel em Engenharia de Software (UPE)**
 - Experiência profissional com **React, Next.js, Vue.js, React Native e TypeScript**  
-- Backend com **Java (Spring Boot)** e **PHP (Laravel)**, **C# (.NET)**  
+- Backend com **Java (Spring Boot)** e **PHP (Laravel)** 
 - Vivência em **SCRUM, Git, APIs REST, Clean Code e SOLID**  
-- Aberto a oportunidades **Remotas / PJ**
+- Aberto a oportunidades remotas **CLT/PJ**
 
 ### 🛠️ Tecnologias
 
@@ -16,7 +18,7 @@ Desenvolvedor Fullstack com experiência em aplicações **web e mobile**, apaix
 HTML • CSS • Tailwind • JavaScript • TypeScript • React • Next.js • Vue.js • React Native  
 
 **Backend:**  
-Java (Spring Boot) • PHP (Laravel) • Python • FastAPI • APIs REST • JWT  
+Java (Spring Boot) • PHP (Laravel) • • APIs REST • JWT  
 
 **Banco de Dados:**  
 MySQL • PostgreSQL • MongoDB  
@@ -26,12 +28,23 @@ Git • GitHub • AWS • Azure • Metodologias Ágeis • Clean Code • SOLI
 
 ---
 
+## Diretrizes de Engenharia que Pratico
+
+> "Código limpo não é apenas aquele que funciona, mas aquele que sobrevive à evolução do negócio."
+
+No meu dia a dia, não abro mão de:
+* **SOLID & Clean Code:** Garantindo que o software construído seja legível e de fácil manutenção por qualquer membro do time.
+* **Testes Automatizados:** Cobertura consistente com JUnit e Mockito para garantir entregas seguras e livres de regressão.
+* **Abordagem Consultiva:** Autonomia para mapear requisitos diretamente com stakeholders e desenhar soluções mesmo onde o caminho técnico ainda precisa ser trilhado.
+
+---
+
 
 ### 📫 Entre em contato comigo:
 
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonas.eng.software@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-soares-824a8a361/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jonas-soares-sousa-sft-eng)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5587991364331)
 
 
